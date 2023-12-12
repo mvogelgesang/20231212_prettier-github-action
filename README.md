@@ -8,7 +8,7 @@ The initial commit to the repo included files that lacked Prettier-enforced styl
 
 ## Implementing Locally
 
-The code provided `prettier.yml` is a starting point to automatically run prettier against a pull request, code push, or on demand. When run, any changes are packaged into a commit that is authored by "My GitHub Actions Bot". 
+The code provided `prettier.yml` is a starting point to automatically run prettier against a pull request, code push, or on demand. When run, any changes are packaged into a commit that is authored by "My GitHub Actions Bot".
 
 ### Customizing
 
